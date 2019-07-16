@@ -1,0 +1,6 @@
+owner=600615738658521119
+prefix=s
+game=sloom
+stayinchannel=true
+songinstatus=false
+token=NjAwNjEyNDU2MzY4NDM5MzA2.XS2VPw.V3KeyaQG1eEQH_OAOB-qZc451D4
